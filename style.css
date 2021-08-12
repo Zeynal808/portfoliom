@@ -634,6 +634,10 @@ footer span a:hover{
     .max-width{
         padding: 0 23px;
     }
+    .home
+    {
+        background:url(./images/banner.jpg) 690px;
+    }
     .home .home-content .text-2{
         font-size: 60px;
     }
